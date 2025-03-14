@@ -1,0 +1,8 @@
+[profile.default]
+src = "contracts"
+out = "out"
+libs = ["lib"]
+solc_version = "0.8.13"  # Adjust to match your contract's pragma
+
+[rpc_endpoints]
+monad = "${MONAD_RPC_URL}"
