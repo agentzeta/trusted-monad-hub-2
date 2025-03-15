@@ -131,7 +131,7 @@ The application will be available at http://localhost:3000.
 # Project Structure
 
 Copy
-trusted-knowledge-hub/
+trusted-monad-hub-2/
 ├── client/                # Frontend React application
 ├── server/                # Backend Node.js server
 │   ├── controllers/       # Request handlers
