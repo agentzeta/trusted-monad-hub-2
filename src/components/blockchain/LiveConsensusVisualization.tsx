@@ -1,4 +1,4 @@
-import { useState, useEffect } from "react";
+ origin jeeimport { useState, useEffect } from "react";
 import { ArrowRight, CheckCircle, AlertCircle, Server } from "lucide-react";
 
 // SVG logos - replace with actual logos in production
