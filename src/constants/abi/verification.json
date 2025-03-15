@@ -1,0 +1,4 @@
+[
+  "function verify(bytes32 dataHash) external returns (bool)",
+  "function checkVerificationStatus(bytes32 dataHash) external view returns (uint8)"
+]
