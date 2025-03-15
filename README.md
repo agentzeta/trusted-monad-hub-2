@@ -25,6 +25,7 @@ TruthToken deployed at: 0xFb75AfE2F631fC2935D8e4D293D26aeC5fd718A1
 TrustedVerification deployed at: 0x9dEECfCF14c9F2a321aE65e4cd18169A47de6945
 
 ## 🚀 Key Features
+- **Oracle APEX integration - for user authentication**
 - **Decentralised Monad-Powered Consensus of AI-generated content** : High throughput 10,000 TPS validation on Monad
 - **Staking Mechanism**: `TRUTH` token staking contract (ERC-20 compatible)
 - **ZK-Proof Verification**: Private voting using zk-SNARKs 
