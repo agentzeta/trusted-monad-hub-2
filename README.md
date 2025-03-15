@@ -26,6 +26,8 @@ TrustedVerification deployed at: 0x9dEECfCF14c9F2a321aE65e4cd18169A47de6945
 
 ## 🚀 Key Features
 - **Oracle APEX integration - for user authentication**
+- **Live consensus generation and consensus visualisation with statistics**
+- **Blockchain Attestation serive with timestamps**
 - **Decentralised Monad-Powered Consensus of AI-generated content** : High throughput 10,000 TPS validation on Monad
 - **Staking Mechanism**: `TRUTH` token staking contract (ERC-20 compatible)
 - **ZK-Proof Verification**: Private voting using zk-SNARKs 
