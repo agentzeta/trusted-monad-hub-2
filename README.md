@@ -19,7 +19,7 @@ truthful.ai is a platform driven by AI for consensus learning that generates and
 
 # Trusted Knowledge Hub - Monad Edition - Deployment
 
-App front end deployed at [https://trusted-knowledge-hub.vercel.app]. (please note, the front end deployed here is an interim version and not the final version. The final code version on githuib has Monad blockchain features integrated and contracts deployed on Monad network.)
+App front end deployed at [https://trusted-monad-hub-2.vercel.app/]. (please note, the front end deployed here is an interim version and not the final version. The final code version on githuib has Monad blockchain features integrated and contracts deployed on Monad network.)
 
 TruthToken deployed at: 0xFb75AfE2F631fC2935D8e4D293D26aeC5fd718A1
 TrustedVerification deployed at: 0x9dEECfCF14c9F2a321aE65e4cd18169A47de6945
@@ -107,8 +107,8 @@ Installation
 
 bash
 Copy
-git clone https://github.com/agentzeta/trusted-knowledge-on-monad.git
-cd trusted-knowledge-on-monad
+git clone https://github.com/agentzeta/trusted-monad-hub-2.git
+cd trusted-monad-hub-2
 npm install
 Configuration
 Create a .env file in the root directory with the following variables:
@@ -119,6 +119,8 @@ OPENAI_API_KEY=your_openai_api_key
 ANTHROPIC_API_KEY=your_anthropic_api_key
 FLARE_NODE_URL=your_flare_node_url
 FLARE_PRIVATE_KEY=your_flare_private_key
+NEAR_NODE_URL=your_near_node_url
+NEAR_PRIVATE_KEY=your_near_private_key
 Running the Application
 bash
 
@@ -292,12 +294,12 @@ Phase 3: Community governance mechanisms
 Phase 4: API access to the verified knowledge base
 Phase 5: Integration with other knowledge tools and platforms
 License
-This project was created at UC Berkely & Stanford campuses for a coding challenge.
+This project was created in California, USA for a coding challenge.
 This project needs your valued validation to build a much needed public good - web3's first truth layer - a verifiable community-built knowledge hub of consensus AI output made possible with human-AI collaboration. 
 
 # Contact
-GitHub: https://github.com/agentzeta/trusted-knowledge-on-monad
+GitHub: https://github.com/agentzeta/trusted-monad-hub-2
 Email: himalayalabs@gmail.com
 
 ## 📜 License
-MIT License (Monad Hackathon Edition)
+MIT License 
