@@ -297,6 +297,8 @@ License
 This project was created in California, USA for a coding challenge.
 This project needs your valued validation to build a much needed public good - web3's first truth layer - a verifiable community-built knowledge hub of consensus AI output made possible with human-AI collaboration. 
 
+Live demo here https://www.loom.com/share/927d090c40734b578274664470ff3e20
+
 # Contact
 GitHub: https://github.com/agentzeta/trusted-monad-hub-2
 Email: himalayalabs@gmail.com
